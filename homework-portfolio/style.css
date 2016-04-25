@@ -3,3 +3,13 @@ body {
 	color: white;
 	font-family: helvetica;
 }
+
+.hero {
+	max-width: 100%;
+	height: auto;
+}
+
+.name {
+	position: relative;
+	margin: center;
+}
